@@ -17,10 +17,10 @@ Estas instruções irão ajudá-lo a obter uma cópia do projeto e executá-la e
 Para obter uma cópia do projeto, clone o repositório usando o git:
 
 ```bash
-git clone [https://github.com/MatheusRodrigues-pg/Testes_Java.git](https://github.com/MatheusRodrigues-pg/Testes_Java.git)
-cd Java_Selenium
+git clone https://github.com/MatheusRodrigues-pg/Testes_Java.git
+cd Testes_Java
 ```
-Substitua `[https://github.com/MatheusRodrigues-pg/Testes_Java.git](https://github.com/MatheusRodrigues-pg/Testes_Java.git)` pela URL real do seu repositório.
+Substitua `https://github.com/MatheusRodrigues-pg/Testes_Java.git` pela URL real do seu repositório.
 
 ### Construindo o Projeto
 
